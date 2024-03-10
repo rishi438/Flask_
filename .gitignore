@@ -1,0 +1,7 @@
+**/__pycache__
+
+
+*.bak
+*.dat
+*.dir
+*.pyc

@@ -1,0 +1,4 @@
+Scheduled api calls can run in browser side using setInterval to update this on client side
+
+
+
